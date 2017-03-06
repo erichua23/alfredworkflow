@@ -1,4 +1,4 @@
-# alfredworkflow
+# AlfredWorkflow
 自己平时常用的workflow
 
 ## ps
