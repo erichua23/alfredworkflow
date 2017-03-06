@@ -1,7 +1,7 @@
 # alfredworkflow
 自己平时常用的workflow
 
-# ps
+## ps
 
 ps ss/office/remove 分别用于打开shadowsock代理，公司办公网代理，移除代理
 
@@ -9,3 +9,7 @@ ps ss/office/remove 分别用于打开shadowsock代理，公司办公网代理�
 
 ![image](https://cloud.githubusercontent.com/assets/1309744/23600720/f5beca0e-0282-11e7-99c1-b605a5b2ba2c.png)
 
+
+## ip
+
+ip get用于显示当前WiFi的IP，并copy到剪切板
